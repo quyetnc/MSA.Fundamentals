@@ -1,0 +1,15 @@
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\bin\Debug\net8.0\MSA.Common.Security.deps.json
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\bin\Debug\net8.0\MSA.Common.Security.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\bin\Debug\net8.0\MSA.Common.Security.pdb
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\bin\Debug\net8.0\MSA.Common.Contracts.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\bin\Debug\net8.0\MSA.Common.Contracts.pdb
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.csproj.AssemblyReference.cache
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.AssemblyInfoInputs.cache
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.AssemblyInfo.cs
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.csproj.CoreCompileInputs.cache
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Comm.F723219D.Up2Date
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\refint\MSA.Common.Security.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\MSA.Common.Security.pdb
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Security\obj\Debug\net8.0\ref\MSA.Common.Security.dll

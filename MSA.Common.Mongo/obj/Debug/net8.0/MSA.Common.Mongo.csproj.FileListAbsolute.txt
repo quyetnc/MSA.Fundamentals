@@ -1,0 +1,15 @@
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\bin\Debug\net8.0\MSA.Common.Mongo.deps.json
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\bin\Debug\net8.0\MSA.Common.Mongo.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\bin\Debug\net8.0\MSA.Common.Mongo.pdb
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\bin\Debug\net8.0\MSA.Common.Contracts.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\bin\Debug\net8.0\MSA.Common.Contracts.pdb
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.csproj.AssemblyReference.cache
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.AssemblyInfoInputs.cache
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.AssemblyInfo.cs
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.csproj.CoreCompileInputs.cache
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Comm.6EFABD65.Up2Date
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\refint\MSA.Common.Mongo.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\MSA.Common.Mongo.pdb
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.Common.Mongo\obj\Debug\net8.0\ref\MSA.Common.Mongo.dll
