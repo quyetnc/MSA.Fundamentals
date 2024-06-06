@@ -33,3 +33,4 @@ C:\Data\Courses\MSA Fundamentals\MSA\MSA.ReverseProxy\obj\Debug\net8.0\refint\MS
 C:\Data\Courses\MSA Fundamentals\MSA\MSA.ReverseProxy\obj\Debug\net8.0\MSA.ReverseProxy.pdb
 C:\Data\Courses\MSA Fundamentals\MSA\MSA.ReverseProxy\obj\Debug\net8.0\MSA.ReverseProxy.genruntimeconfig.cache
 C:\Data\Courses\MSA Fundamentals\MSA\MSA.ReverseProxy\obj\Debug\net8.0\ref\MSA.ReverseProxy.dll
+C:\Data\Courses\MSA Fundamentals\MSA\MSA.ReverseProxy\obj\Debug\net8.0\MSA.ReverseProxy.sourcelink.json
